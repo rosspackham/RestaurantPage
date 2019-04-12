@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../main-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Baloo Chettan', cursive;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+img {
+    
+    width: 490px;
+    height: 611px;
+}
+
+#image {
+    align-content: center;
+    width: 700px;
+    height: 300px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(2, 94, 122);
+    /*padding: 25px 105px;*/
+    margin: 0;
+    width: 490px;
+}
+
+nav {
+    background-color: #000;
+    text-decoration: none;
+    width: 490px;
+    text-align: center;
+}
+
+ul {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+li {
+    display: inline;
+    padding: 15px;
+     
+     
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  
+}
+
+a:hover {
+    color: rgb(2, 94, 122);
+}
+
+#title (
+    width: 100%;
+)
